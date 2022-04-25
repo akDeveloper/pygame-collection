@@ -4,3 +4,6 @@
 [submodule "card-games"]
 	path = card-games
 	url = git@github.com:akDeveloper/card-games.git
+[submodule "70s-space-invaders"]
+	path = 70s-space-invaders
+	url = git@github.com:akDeveloper/70s-space-invaders.git
