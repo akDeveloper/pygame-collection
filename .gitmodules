@@ -7,3 +7,6 @@
 [submodule "70s-space-invaders"]
 	path = 70s-space-invaders
 	url = git@github.com:akDeveloper/70s-space-invaders.git
+[submodule "snake-game-clone"]
+	path = snake-game-clone
+	url = git@github.com:akDeveloper/snake-game-clone.git
