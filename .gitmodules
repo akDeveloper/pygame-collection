@@ -10,3 +10,6 @@
 [submodule "snake-game-clone"]
 	path = snake-game-clone
 	url = git@github.com:akDeveloper/snake-game-clone.git
+[submodule "galaga-clone"]
+	path = galaga-clone
+	url = git@github.com:akDeveloper/galaga-clone.git
