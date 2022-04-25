@@ -1,0 +1,3 @@
+[submodule "80s-pacman"]
+	path = 80s-pacman
+	url = git@github.com:akDeveloper/80s-pacman.git
