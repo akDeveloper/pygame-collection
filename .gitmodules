@@ -13,3 +13,6 @@
 [submodule "galaga-clone"]
 	path = galaga-clone
 	url = git@github.com:akDeveloper/galaga-clone.git
+[submodule "project-x-clone"]
+	path = project-x-clone
+	url = git@github.com:akDeveloper/project-x-clone.git
